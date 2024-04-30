@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Game Development, C programming languages like C# and C++, and AI Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by sending mail to andriaalmadani.865@gmail.com .
-- ⚡ Fun fact: If you pour a glass of water into an empty cup during high temperatures in tropical regions, it will vanish because you drank it!
+- ⚡ Fun fact: If you pour a glass of water into an empty cup during high temperatures in tropical regions, it will vanish because you drank it all!
 
 <!---
 AiroDria/AiroDria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
